@@ -41,4 +41,4 @@ I was told to take inspiration from the UI of company's original website to buil
 
 <h2>About KGE Technologies</h2> 
 
-<p>From January 04, 2023 to March 04, 2023, I worked as a Web Developer Intern at <a href="https://www.linkedin.com/company/kge-technologies/">KGE Technologies Pvt Ltd</a> for a duration of two months. This internship provided me with the chance to use the knowledge I gained in the classroom to create real-world projects. Throughout the course of the internship, I developed an extensive understanding of HTML, CSS, and Javascript and honed my skills in designing responsive websites.</p>
+<p>From January 04, 2023 to March 04, 2023, I worked as a Web Developer Intern at <a href="https://www.linkedin.com/company/kge-technologies/" target="_blank">KGE Technologies Pvt Ltd</a> for a duration of two months. This internship provided me with the chance to use the knowledge I gained in the classroom to create real-world projects. Throughout the course of the internship, I developed an extensive understanding of HTML, CSS, and Javascript and honed my skills in designing responsive websites.</p>
