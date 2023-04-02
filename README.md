@@ -27,7 +27,7 @@ I was tasked to design and develop the following three pages:
 I was told to take inspiration from the UI of company's original website to build the header and footer. The website is fully responsive to any device size.
 </p>
 
-<p><a href = "https://satyajeetghosh.github.io/KGE-Technologies-Assignment-1/">Click Here</a> to preview or go to https://satyajeetghosh.github.io/KGE-Technologies-Assignment-1/</p>
+<p><a href = "https://satyajeetghosh.github.io/KGE-Technologies-Assignment-1/" target="_blank">Click Here</a> to preview or go to https://satyajeetghosh.github.io/KGE-Technologies-Assignment-1/</p>
 
 <p>Tech stack Used: HTML, CSS, Javascript</p>
 
